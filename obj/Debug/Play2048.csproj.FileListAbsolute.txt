@@ -1,0 +1,9 @@
+D:\我的文档\c#\Play2048\Play2048\bin\Debug\Play2048.exe.config
+D:\我的文档\c#\Play2048\Play2048\bin\Debug\Play2048.exe
+D:\我的文档\c#\Play2048\Play2048\bin\Debug\Play2048.pdb
+D:\我的文档\c#\Play2048\Play2048\obj\Debug\Play2048.csprojResolveAssemblyReference.cache
+D:\我的文档\c#\Play2048\Play2048\obj\Debug\Play2048.Form1.resources
+D:\我的文档\c#\Play2048\Play2048\obj\Debug\Play2048.Properties.Resources.resources
+D:\我的文档\c#\Play2048\Play2048\obj\Debug\Play2048.csproj.GenerateResource.Cache
+D:\我的文档\c#\Play2048\Play2048\obj\Debug\Play2048.exe
+D:\我的文档\c#\Play2048\Play2048\obj\Debug\Play2048.pdb
